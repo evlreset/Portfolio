@@ -61,6 +61,12 @@ a{
 	margin-bottom: 25px;
 }
 
+.thumbnail3{
+	height: 100%;
+	text-align: center;
+	font-size: 20px;
+}
+
 .top{
 	position: fixed;
 	bottom: 50px;
